@@ -1,4 +1,4 @@
-helli- 👋 Hi, I’m @MuthokaG
+helloo- 👋 Hi, I’m @MuthokaG
 - 👀 I’m interested in backend and frontend web development.
 - 🌱 I’m currently learning JavaScript, ReactJS and Python.
 <!---
